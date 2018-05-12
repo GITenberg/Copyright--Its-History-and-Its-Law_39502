@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40052
     wikipedia: http://en.wikipedia.org/wiki/Richard_Rogers_Bowker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39502#Copyright--Its-History-and-Its-Law
 gutenberg_issued: '2012-04-21'
 gutenberg_type: Text
 identifiers:
